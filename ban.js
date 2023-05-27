@@ -26,5 +26,3 @@ client.on('message', message => {
     }
   }
 });
-
-client.login('your-token-goes-here');
